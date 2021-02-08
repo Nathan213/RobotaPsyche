@@ -15,8 +15,6 @@ void setup() {
 
 void draw() {
   background(space);
-  PVector force = new PVector(0, 0);
-  m.applyForce(force);
   m.update();
   m.display();
   m.checkEdge();
