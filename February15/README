@@ -1,0 +1,12 @@
+Main difficulties
+  - For this project, the most time consuming part for me was creating a flow field that pointed all the individual points to the center. 
+    Specifically, it took me some time to figure out how to return the value of the desired direction for each point in the logic of the
+    for loop. 
+  - Another challenge I had was using array lists to call movers. I think my main problem with this was an issue of syntax. I couldn't
+    figure out where and what I should have written to properly call objects with an array list. To solve this, I took a peek at some 
+    classmate's work (Amina and Katie), and proceeded to figure out the process. 
+
+Discoveries
+  - A quite simply thing that I learned was the functions of arguments. Previously, I was still a little bit fuzzy on what was going on 
+    inside the brackets behind methods, but this assignment helped me clarify that. 
+  - 
