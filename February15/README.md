@@ -18,4 +18,6 @@
  
 **Demonstration**
 This is the scene when there are no movers called on:
-[scene 0](https://github.com/Nathan213/RobotaPsyche/blob/main/February15/Scene%200.png)
+![Scene 0](https://github.com/Nathan213/RobotaPsyche/blob/main/February15/Scene%200.png)
+This is the scene when a mover is called and is trying to fly away from the flow field:
+![Scene 1](https://github.com/Nathan213/RobotaPsyche/blob/main/February15/Scene%201.png)
