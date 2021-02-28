@@ -12,13 +12,13 @@ For the DNA of the blobs, I have:
 * blob type (red, green, blue)
 
 # System Criterion
-## Survival
+### Survival
 A blob can survive as long as there are no interactions with any other blobs. 
 
-## Removal
+### Removal
 When two blobs of different color collide, the blob with the smaller radius will die. The blob with the bigger radius will gain the dead one's radius. Same color blobs will just float pass each other. A blob can eat as many different color blobs as it wants, until it reaches its maximum radius. If a blob that's at max radius collides with a smaller blob, it will die from over eating. Two blobs of the same radius will both die upon collision. 
 
-## Regeneration
+### Regeneration
 Every 100 frames, a random blob type will be selected from the arraylist of current surviving blobs. The new blob will have a random location and random size (in a certain range that makes sure it's small). Its max radius, max steering force, max speed, and type will be the same as the selected blob from the array list. This means it's more likely to spawn a type of blob when there are more of the same kind alive. 
 
 # Problems
