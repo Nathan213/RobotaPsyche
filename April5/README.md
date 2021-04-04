@@ -4,19 +4,17 @@ This week's assignment required us to create a static program, which is somethin
 
 # Reading
 
-Intentionally perosnlifying robbie and speedy. This is a work of fiction, and it's contents are contradictory to our previous discussion - why was the robot personified anyway?
+(1) Contrast between metal mind and metal body. Which do we dislike? Susuan Calvin had a "metal mind" and people called her non-human, robot like. The wife hated robbie because he had a metal body, although a very soft and "human like" mind.
 
-Contrast between metal mind and metal body. Which do we dislike? Susuan Calvin had a "metal mind" and people called her non-human, robot like. The wife hated robbie because he had a metal body, although a very soft and "human like" mind.
+(2) Evaluate the merits and demerits of works of fiction like this on the progression of robotics. In this case, its readers will subconciously see robots as slaves, inferior to humans. They will also see them as incompetent and at risk of malfunction. 
 
-Evaluate the merits and demerits of works of fiction like this on the progression of robotics. In this case, its readers will subconciously see robots as slaves, inferior to humans. They will also see them as incompetent and at risk of malfunction. 
-
-Follow up, specifically, discuss the effects that these examples can have on reader's perception of robots. 
+(3) Follow up, specifically, discuss the effects that these examples can have on reader's perception of robots. 
 - Personification of robbie to win empathy of readers (conttradicts previous presentation of neruolink)
 - Best robot money can buy is something that acts like a human
 
-The husband (an expert in robotics) empathized more to the robot than the wife (non-expert). Is this accurate? Expert knows the code, knows the inner workings, normal people see the appearence. Should it be the other way around?
+(4) The husband (an expert in robotics) empathized more to the robot than the wife (non-expert). Is this accurate? Expert knows the code, knows the inner workings, normal people see the appearence. Should it be the other way around?
 
-First law of robots, they cannot harm humans. Is this a foreseeable/efective way to control robots? Or is this a way to calm the general public?
+(5) First law of robots, they cannot harm humans. Is this a foreseeable/efective way to control robots? Or is this a way to calm the general public?
 - Should there be universal laws coded into robots?
 
 
