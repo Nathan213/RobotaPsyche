@@ -4,3 +4,4 @@ This week's assignment required us to create a static program, which is somethin
 
 # Reading
 
+In the introductory scene, susan was called non-human becuase of her cold characteristic. they called her a robot. Why is this our perception of them?
