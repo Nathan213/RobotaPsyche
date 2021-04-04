@@ -5,3 +5,5 @@ This week's assignment required us to create a static program, which is somethin
 # Reading
 
 In the introductory scene, susan was called non-human becuase of her cold characteristic. they called her a robot. Why is this our perception of them?
+
+Follow that comment, Susan stood up from her chair — "she wasn't tall and she looked frail" — by this logic, does our perception of a robot's coldness only stem from its brain, its conciousness? The people in the book certainly did so.
