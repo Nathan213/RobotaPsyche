@@ -10,9 +10,9 @@ Contrast between metal mind and metal body. Which do we dislike? Susuan Calvin h
 
 Evaluate the merits and demerits of works of fiction like this on the progression of robotics. In this case, its readers will subconciously see robots as slaves, inferior to humans. They will also see them as incompetent and at risk of malfunction. 
 
-  Follow up, specifically, discuss the effects that these examples can have on reader's perception of robots. 
-    - Personification of robbie to win empathy of readers (conttradicts previous presentation of neruolink)
-    - Best robot money can buy is something that acts like a human
+Follow up, specifically, discuss the effects that these examples can have on reader's perception of robots. 
+- Personification of robbie to win empathy of readers (conttradicts previous presentation of neruolink)
+- Best robot money can buy is something that acts like a human
 
 The husband (an expert in robotics) empathized more to the robot than the wife (non-expert). Is this accurate? Expert knows the code, knows the inner workings, normal people see the appearence. Should it be the other way around?
 
