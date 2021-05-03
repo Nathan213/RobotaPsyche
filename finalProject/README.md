@@ -1,1 +1,1 @@
-
+My final essay is a philosophical paper that explores the possibility of coding laws into humans, similar to the format of Asimov's laws of robotics. The conversation revolves around a predetermined thought experiement where mechanical enhancements are an integral part of our body that is capable of stopping our action. Entire legal fields can be coded into these enhancements, and they will physcailly stop us from committing crime. 
